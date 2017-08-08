@@ -14,6 +14,7 @@ Debian / Ubuntu:
 
     apt-get install git
     git clone github.com/hao35954514/shadowsocksR-b.git
+    
     //https://github.com/shadowsocksr/shadowsocksr.git
 
 CentOS:
