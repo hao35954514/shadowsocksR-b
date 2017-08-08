@@ -14,20 +14,20 @@ Server
 Debian / Ubuntu:
 
     apt-get install git
-    git clone github.com/hao35954514/shadowsocksR-b.git
+    git clone https://github.com/hao35954514/shadowsocksR-b.git
     
     //https://github.com/shadowsocksr/shadowsocksr.git
 
 CentOS:
 
     yum install git
-    git clone github.com/hao35954514/shadowsocksR-b.git
+    git clone https://github.com/hao35954514/shadowsocksR-b.git
     
     //https://github.com/shadowsocksr/shadowsocksr.git
 
 Windows:
 
-    git clone github.com/hao35954514/shadowsocksR-b.git
+    git clone https://github.com/hao35954514/shadowsocksR-b.git
     
     //https://github.com/shadowsocksr/shadowsocksr.git
 
